@@ -1,0 +1,472 @@
+@media only screen and (max-width:1177px) {
+    .qualification {
+        gap: 8px;
+        padding: 0px;
+    }
+
+    .wq {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        border-radius: 15px;
+    }
+
+    .h1 {
+        font-size: 30px;
+
+    }
+
+    .h12 {
+        font-size: 30px;
+    }
+
+    .list1 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .list12 {
+        font-size: 18px;
+        line-height: 50px;
+    }
+
+    .list123 {
+        font-size: 18px;
+    }
+
+    .h1 {
+        font-size: 25px;
+        width: 200px;
+    }
+
+    .h12 {
+        font-size: 25px;
+        width: 200px;
+    }
+
+    .skillh1 {
+        font-size: 13px;
+    }
+
+    .declare {
+        font-size: 13px;
+        color: #076c47;
+    }
+
+    #about {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .first-box {
+        height: 300px;
+        width: 580px;
+    }
+
+    .first-box1 {
+        height: 300px;
+        width: 580px;
+        margin-left: 130px;
+        margin-top: -245px;
+    }
+
+    .head {
+        font-size: 12px;
+        width: 180px;
+        margin-left: 32px;
+        margin-top: 45px;
+    }
+
+    .secure {
+        margin-top: 20px;
+        margin-left: 35px;
+        line-height: 41px;
+    }
+
+    .name2 {
+        font-size: 30px;
+        font-family: monospace;
+        letter-spacing: 5px;
+    }
+
+    .name3 {
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 12px;
+        font-size: 14px;
+    }
+
+    .name {
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 5px;
+        font-size: 17px;
+    }
+
+    .div-image {
+        height: 225px;
+        margin-top: 24px;
+        margin-left: 0px;
+    }
+
+    .btn {
+        font-size: 10px;
+        height: 24px;
+        margin-top: 5px;
+    }
+
+    .info {
+        height: 35px;
+        margin-left: 90px;
+        margin-top: -20px;
+    }
+
+    .w {
+        font-size: 29px;
+        margin-top: -350px;
+        margin-left: -512px;
+        LINE-HEIGHT: 5px;
+        letter-spacing: 9px;
+    }
+
+    .heading {
+        letter-spacing: 9px;
+        font-size: 28px;
+    }
+    .logo {
+        color: rgb(255, 255, 255);
+        padding: 9px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .bg {
+        display: none;
+    }
+
+    .dupli {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:840px) {
+    .qualification {
+        grid-template-areas: "main main left left" "right right menu menu";
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+    }
+
+    .list123 {
+        color: #004a57;
+        column-count: 1;
+        line-height: 30px;
+    }
+    .logo {
+        color: rgb(255, 255, 255);
+        padding: 9px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .list12 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .nav{
+        height: 46px;
+    }
+}
+
+@media only screen and (max-width:730px) {
+    .info {
+        height: 30px;
+        margin-left: 85px;
+        margin-top: -20px;
+    }
+
+    .skills {
+        column-count: 2;
+    }
+
+    .rev1 {
+        width: 200px;
+        font-size: 20px;
+    }
+    .list1 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 20px;
+        border-radius: 8px;
+    }
+    .logo {
+        color: rgb(255, 255, 255);
+        padding: 9px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .list12 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 20px;
+        border-radius: 8px;
+    }
+    .skillh{
+        width: 416px;
+    font-size: 30px;
+    }
+    .list123 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 24px;
+        border-radius: 8px;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .a {
+        display: none;
+    }
+
+    .skillh {
+        text-align: center;
+        width: 265px;
+        font-size: 21px;
+    }
+
+    .map {
+        height: 125px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .adress {
+        font-size: 7px;
+        letter-spacing: 3px;
+    }
+
+    .globe {
+        height: 10px;
+    }
+
+    .text {
+        height: 100PX;
+        WIDTH: 152PX;
+    }
+
+    .name {
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 5px;
+        font-size: 11px;
+    }
+
+    .btns {
+        width: 62px;
+        height: 27px;
+        margin: 22px;
+    }
+    .btnr {
+        width: 62px;
+        height: 27px;
+        margin: 22px;
+    }
+
+    .declare {
+        font-size: 11px;
+        color: #076c47;
+    }
+
+    .btn-cv {
+        color: white;
+        background-color: black;
+        border: 0px;
+        border-radius: 5px;
+        height: 22px;
+    }
+
+    .list1 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 20px;
+        border-radius: 8px;
+    }
+
+    .list12 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 20px;
+        border-radius: 8px;
+    }
+
+    .list123 {
+        font-size: 10px;
+        background-color: #e8baeb;
+        line-height: 20px;
+        border-radius: 8px;
+    }
+
+    .h1 {
+        font-size: 15px;
+        width: 96px;
+    }
+
+    .h12 {
+        font-size: 15px;
+        width: 96px;
+    }
+
+    .info {
+        height: 25px;
+        margin-left: 40px;
+    }
+
+    .first-box1 {
+        height: 155px;
+        width: 270px;
+        margin-left: 74px;
+        margin-top: -118px;
+        border-radius: 6px;
+        z-index: 1;
+    }
+
+    .first-box {
+        height: 155px;
+        width: 270px;
+        border-radius: 6px;
+        z-index: 0;
+    }
+
+    .heading {
+        letter-spacing: 4px;
+        font-size: 17px;
+    }
+
+    .w {
+        font-size: 17px;
+        margin-top: -144px;
+        margin-left: -226px;
+        LINE-HEIGHT: 0px;
+        letter-spacing: 4px;
+    }
+
+    .head {
+        font-size: 9px;
+        width: 143px;
+        margin-left: 20px;
+        margin-top: 25px;
+    }
+
+    .name {
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 4px;
+        font-size: 9px;
+    }
+
+    .name2 {
+        font-size: 15px;
+        font-family: monospace;
+        letter-spacing: 1px;
+    }
+
+    .name3 {
+        font-family: 'Times New Roman', Times, serif;
+        letter-spacing: 4px;
+        font-size: 9px;
+    }
+
+    .btn {
+        font-size: 8px;
+        height: 16px;
+        margin-top: 0px;
+        position: absolute;
+        margin-top: -4px;
+        margin-left: -25px;
+    }
+
+    .secure {
+        margin-top: 11px;
+        margin-left: 22px;
+        line-height: 19px;
+    }
+    .logo {
+        color: rgb(255, 255, 255);
+        padding: 9px;
+        font-size: 20px;
+        margin-left: 0px;
+    }
+    .div-image {
+        height: 113px;
+        margin-top: 24px;
+        margin-left: -8px;
+        border-bottom: solid 3px #f0bd0e;
+        border-bottom-right-radius: 60px;
+        border-bottom-left-radius: 10px;
+    }
+    .qualification {
+        grid-template-areas:
+            "main main main main"
+            "left left left left"
+            "right right right right"
+            "menu menu menu menu";
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+    }
+    .rev1 {
+        width: 65%;
+        font-size: 15px;
+        margin-top: 33px;
+        margin-bottom: 20px;
+
+    }
+    .nam {
+        position: relative;
+        width: 85%;
+        height: 18px;
+    }
+    .skillh1 {
+        font-size: 11px;
+    }
+    .ji {
+        height: 37px;
+        padding: 4px;
+    }
+    .jis {
+        height: 37px;
+        padding: 4px;
+    }
+    .drop-down {
+        display: inline-block;
+        z-index: 6;
+    }
+    .drop-down:hover .drop-list {
+        display: inline-block;
+        animation-name: f;
+        animation-duration: 1s;
+    }
+    .drop-list {
+        display: none;
+        z-index: 6;
+        right: 10px;
+    }
+    .drop-class{
+        position: absolute;
+        right: 10px;
+        z-index: 6;
+    }
+    .clo:hover .drop-lits{
+        display: none;
+    }
+    @keyframes f {
+        0%{
+            opacity: 0%;
+        }
+        100%{
+            opacity: 100%;
+        }
+        
+    }
+}
+@media only screen and (max-width:339px)
+{
+    .drop-list {
+        display: none;
+        z-index: 6;
+        right: 60px;
+    }
+}
